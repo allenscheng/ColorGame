@@ -29,6 +29,6 @@
     <div class="square"></div>
   </div>
 
-  <script type="text/javascript" src="colorgame.js"></script>
+  <script type="text/javascript" src="index.js"></script>
 </body>
 </html>
